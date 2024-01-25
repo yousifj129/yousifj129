@@ -33,9 +33,3 @@ I am familiar with Linux, specifically the Kali distribution. I have hands-on ex
 ## Collaboration
 I am open to collaborating on projects related to physics, programming, mathematics, 3D modelling, or Linux. If you have any exciting ideas or require assistance with your projects, feel free to reach out to me.
 
-## Contact
-You can contact me through my GitHub profile or via email at [your-email@example.com](mailto:your-email@example.com).
-
-Looking forward to connecting with you!
-
-i mean this one! just change one part, the about me
