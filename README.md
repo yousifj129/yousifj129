@@ -18,12 +18,9 @@ I am proficient in the following programming languages:
 ### Mathematics
 
 In addition to my physics expertise, I possess strong mathematical skills. My knowledge includes:
-
 - Undergraduate level math
-- Calculus
 - Partial Differential Equations (PDE) and Ordinary Differential Equations (ODE)
-- Multivariable calculus
-- Tensor calculus
+- Calculus / Multivariable calculus / Tensor calculus
 
 ### 3D Modelling
 
