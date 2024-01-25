@@ -15,6 +15,11 @@ I am proficient in the following programming languages:
 - Python
 - C++
 
+I am able to use these languages:
+
+- Java
+- Javascript (for web React)
+
 ### Mathematics
 
 In addition to my physics expertise, I possess strong mathematical skills. My knowledge includes:
