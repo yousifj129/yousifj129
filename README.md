@@ -1,15 +1,44 @@
 # README
 
-👋 Hi, I'm @yousifj129! Welcome to my GitHub profile.
+👋 Hi there! Welcome to my GitHub profile.
 
 ## About Me
-I'm interested in .NET, Python, and C++, and I'm currently learning machine learning. I have a strong background in mathematics, particularly in calculus, as I have studied calculus 1 and calculus 2, as well as multivariable calculus and tensor calculus.
+I'm a passionate individual with a diverse set of skills and interests. 
+
+## Skills
+
+### Programming Languages
+
+I am proficient in the following programming languages:
+
+- C#
+- Python
+- C++
+
+### Mathematics
+
+In addition to my physics expertise, I possess strong mathematical skills. My knowledge includes:
+
+- Undergraduate level math
+- Calculus
+- Partial Differential Equations (PDE) and Ordinary Differential Equations (ODE)
+- Multivariable calculus
+- Tensor calculus
+
+### 3D Modelling
+
+I am experienced in using Blender, a powerful software for 3D modelling. I enjoy creating visually appealing models and exploring the possibilities of 3D design.
+
+### Linux (Kali)
+
+I am familiar with Linux, specifically the Kali distribution. I have hands-on experience with Kali Linux and its tools, enabling me to tackle various cybersecurity and penetration testing tasks.
 
 ## Collaboration
-I'm open to collaborating on any projects. Feel free to reach out to me if you have any ideas or if you need assistance with your projects.
+I am open to collaborating on projects related to physics, programming, mathematics, 3D modelling, or Linux. If you have any exciting ideas or require assistance with your projects, feel free to reach out to me.
+
+## Contact
+You can contact me through my GitHub profile or via email at [your-email@example.com](mailto:your-email@example.com).
 
 Looking forward to connecting with you!
-<!---
-yousifj129/yousifj129 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+i mean this one! just change one part, the about me
