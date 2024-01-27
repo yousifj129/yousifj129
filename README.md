@@ -32,14 +32,14 @@ Feel free to explore my repositories to see the projects I have worked on using 
 
 ### Mathematics
 
-In addition to my physics expertise, I possess strong mathematical skills. My knowledge includes:
+In addition to my physics expertise, I have little mathematical skills. My knowledge includes:
 - Undergraduate level math
 - Partial Differential Equations (PDE) and Ordinary Differential Equations (ODE)
 - Calculus / Multivariable calculus / Tensor calculus
 
 ### 3D Modelling
 
-I am experienced in using Blender, a powerful software for 3D modelling. I enjoy creating visually appealing models and exploring the possibilities of 3D design.
+I am experienced in using Blender.
 
 ### Linux (Kali)
 
