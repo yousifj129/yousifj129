@@ -3,7 +3,7 @@
 👋 Hi there! Welcome to my GitHub profile.
 
 ## About Me
-I'm a passionate individual with a diverse set of skills and interests. 
+I'm a passionate individual with a diverse set of skills and interests. I have experience in various programming languages and technologies, including ASP.NET, C#, Python, C++, Java, and JavaScript.
 
 ## Skills
 
@@ -15,10 +15,20 @@ I am proficient in the following programming languages:
 - Python
 - C++
 
-I am able to use these languages:
+I am also familiar with:
 
 - Java
-- Javascript (for web React)
+- JavaScript
+
+### Technologies and Frameworks
+
+In addition to programming languages, I have hands-on experience with the following technologies and frameworks:
+
+- ASP.NET (MVC, API, RAZOR)
+- Windows Forms
+- React (JavaScript library)
+
+Feel free to explore my repositories to see the projects I have worked on using these technologies.
 
 ### Mathematics
 
